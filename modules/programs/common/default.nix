@@ -1,5 +1,5 @@
 [
-  ./firefox
+  ./cachy-browser
   ./gpg
   ./lazygit
   ./music
